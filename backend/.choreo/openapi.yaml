@@ -1,0 +1,13 @@
+openapi: 3.0.0
+info:
+  title: My Public Service
+  version: 0.1
+# This line disables OAuth2 for the whole API
+x-wso2-disable-security: true
+paths:
+  /:
+    get:
+      summary: Root endpoint
+      responses:
+        '200':
+          description: OK
