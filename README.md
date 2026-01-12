@@ -88,4 +88,4 @@ To run this project locally, you will need to set up both the frontend and backe
 
 ## Credit
 
-This project was created by following the tutorial by **Mishal** on YouTube. You can find the video tutorial [here](https://youtu.be/c-QsfbznSXI).
+This project was created by following the tutorial by **Tech With Tim** on YouTube. You can find the video tutorial [here](https://youtu.be/c-QsfbznSXI).
