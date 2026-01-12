@@ -30,6 +30,8 @@ This project is a simple yet functional note-taking application that demonstrate
 - View all existing notes
 - Delete notes
 
+[![Watch the video](https://user-images.githubusercontent.com/122405175/281026027-a16df538-900a-4712-a720-41712776df9f.png)](https://private-user-images.githubusercontent.com/122405175/534821239-42e366f1-b8d2-4e18-a78a-4f082c5a26d3.mp4?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgyNTg4MjcsIm5iZiI6MTc2ODI1ODUyNywicGF0aCI6Ii8xMjI0MDUxNzUvNTM0ODIxMjM5LTRmMDgyYzVhMjZkMy5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMlQyMjU1MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZGEyYTY5YjQ5NjMwM2RlM2FkOGQ4Y2QyZmM2YTI2ZTdhNGI1NTVmYzYzYWZiMmUxNDY1MjE0NDQ3ZTUxODQ3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cfAe8PyV9UAWPTnXm859R1H0ZMRV0NzRCS3V2D9tbuI)
+
 ## Setup and Installation
 
 To run this project locally, you will need to set up both the frontend and backend services.
